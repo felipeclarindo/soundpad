@@ -20,7 +20,7 @@ O Sound Pad é uma aplicação web simples que simula um teclado musical, onde c
 1. Clone o repositório para o seu computador:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/felipeclarindo/soundpad.git
    ```
 
 2. Abra o arquivo `index.html` no seu navegador web.
@@ -33,7 +33,7 @@ Contribuições são bem-vindas! Se você tiver sugestões de melhorias, sinta-s
 
 ## Autor
 
- **Felipe Clarindo**
+ Desenvolvido por **Felipe Clarindo**
   - [LinkedIn](https://www.linkedin.com/in/felipe-clarindo-934578289/)
   - [Instagram](https://www.instagram.com/lipethegoat)
   - [GitHub](https://github.com/felipeclarindo)
